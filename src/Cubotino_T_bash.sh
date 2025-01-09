@@ -1,8 +1,8 @@
 # activate the venv
-source /home/pi/cubotino/src/.virtualenvs/bin/activate
+source /home/pi/solver/src/.virtualenvs/bin/activate
 
 # enter the folder with the main scripts
-cd /home/pi/cubotino/src
+cd /home/pi/solver/src
 
 # runs the robot main script
 #python Cubotino_T.py -F -D
